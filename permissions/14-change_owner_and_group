@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:staff hello
+chown vincent:staff folder1 folder2 file1 file2
