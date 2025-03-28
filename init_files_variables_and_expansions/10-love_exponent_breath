@@ -1,2 +1,2 @@
 #!/bin/bash
-[[ -n "$BREATH" && -n "$LOVE" ]]
+echo $((BREATH ** LOVE))
